@@ -58,7 +58,7 @@ header h2 {
     font-size: 25px;
     font-weight: 700;
 }
-article section main > p {
+article section .main > p {
     color: var(--neutral-grayishBlue);
     font-size: var(--font-standard-size);
     margin-top: 20px;
